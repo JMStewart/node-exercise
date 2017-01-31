@@ -8,7 +8,7 @@ var bodyParser = require('body-parser');
 var index = require('./routes/index');
 var character = require('./routes/character');
 var characters = require('./routes/characters');
-var planetResidents = require('./routes/planetresidents');
+var planetresidents = require('./routes/planetresidents');
 
 var app = express();
 
